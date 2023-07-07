@@ -1,0 +1,34 @@
+
+.f3,.f2{
+    display: inline-block;
+    
+}
+.f2{
+    float: left;
+
+}
+.f3{
+    width: 25%;
+    height: 400px;
+    background-color:rgb(249, 215, 173);
+
+    margin-left: 100px;
+}
+input,label{
+    width: 60%;
+    height: 25px;
+    margin-right: 70px;
+    font-size: 15px;
+}
+img{
+    margin-left: 15x;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+} 
+.container{
+    width: 100%;
+    height: 650px;
+    background-color: bisque;
+}
+

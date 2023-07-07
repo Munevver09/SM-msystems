@@ -1,0 +1,14 @@
+form{
+    width: 20%;
+    height: 300px;
+    margin: auto;
+    background: #30858d;
+    border-radius: 5px;
+    
+
+}
+label,input{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 45px;
+
+}

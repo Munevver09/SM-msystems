@@ -1,0 +1,64 @@
+/* dashbordd.css */
+
+/* Styles for the sidebar */
+.d1 {
+  background-color: #eeeeee;
+  padding: 20px;
+  width: 200px;
+}
+
+.d1 ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.d1 li {
+  margin-bottom: 10px;
+}
+
+.d1 a {
+  color: black;
+  text-decoration: none;
+}
+
+/* Styles for the main content */
+.d2 {
+  margin-left: 220px;
+}
+
+.card {
+  background-color: #f1f1f1;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.card-title {
+  font-size: 24px;
+}
+
+.card-text {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+/* Styles for the footer */
+.card-footer {
+  background-color: #f1f1f1;
+  padding: 20px;
+}
